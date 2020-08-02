@@ -5,4 +5,5 @@
 3. Создать окружение: python –m venv имя_окружения;
 4. Войти в окружение: имя_окружения\Scripts\activate.bat
 5. Установить библиотеки: pip install -r requirements.txt;
-6. Запустить сервер: python manage.py runserver.
+6. Создать сюперюзера: python manage.py createsuperuser
+7. Запустить сервер: python manage.py runserver.
